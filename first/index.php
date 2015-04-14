@@ -93,7 +93,7 @@
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
 
-            <h1>Powered by <a href="http://mobilegrows.com/"><span>MobileGrows</span></a>|<a href="http://illinoispain.com/" rel="external">  <span>DesktopSite</span></a></h1>
+            <h1>Powered by <a href="http://mobilegrows.com/" rel="external"><span>MobileGrows</span></a>|<a href="http://illinoispain.com/" rel="external">  <span>DesktopSite</span></a></h1>
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
